@@ -1,0 +1,4 @@
+numpy==1.21.6
+cupy-cuda11x==11.6.0
+tqdm==4.64.1
+recbole==1.2.0
