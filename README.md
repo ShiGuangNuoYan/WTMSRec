@@ -42,7 +42,7 @@ Our Pipeline is shown above. The wavelet attention module is shown in the figure
 If you want to use our model, follow the commands below:
 
 ```shell
-pip install requirements.txt
+pip install -r requirements.txt
 cd WTMSRec
 python Dis_Pretrain.py
 ```
