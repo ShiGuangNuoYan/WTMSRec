@@ -1,8 +1,31 @@
+[TOC]
+
 # ICBDSC 2025
 
 ## Dataset
 
-We extracted the data set as [UniSRec](https://github.com/RUCAIBox/UniSRec) did。
+We extracted the data set as [UniSRec](https://github.com/RUCAIBox/UniSRec) did.
+
+Create a folder named dataset under the root directory with the file structure as follows:
+
+```
+├── dataset
+│   | downstream 
+│     ├── Arts_mm_full
+│     ├── Arts_mm_subset 
+│     ├── Instruments_mm_full
+│     ├── Instruments_mm_subset
+│     ├── Office_mm_full
+│     ├── Office_mm_subset
+│     ├── Pantry_mm_full
+│     ├── Pantry_mm_subset
+│     ├── Scientific_mm_full
+│     ├── Scientific_mm_subset
+│   | pretrain
+│     ├── FHCKM_mm_full
+```
+
+
 
 ## OverView
 
