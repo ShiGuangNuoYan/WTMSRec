@@ -1,5 +1,3 @@
-[TOC]
-
 # ICBDSC 2025
 
 ## Dataset
